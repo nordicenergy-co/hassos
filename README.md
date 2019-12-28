@@ -1,3 +1,7 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/home-assistant/hassos) 
+
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/home-assistant/hassos) 
+
 [![Build Status](https://dev.azure.com/home-assistant/Hass.io/_apis/build/status/hassos?branchName=dev)](https://dev.azure.com/home-assistant/Hass.io/_build/latest?definitionId=13&branchName=dev)
 
 # HassOS
